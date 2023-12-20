@@ -1,0 +1,9 @@
+{
+  "licenses":
+    {
+      "sort-files.sh": "BSD-3-Clause",
+      "extract-data.sh": "BSD-3-Clause",
+      "barchart.svg": "CC-BY-SA-4.0",
+      "piechart.svg": "CC-BY-SA-4.0"
+    }
+}
